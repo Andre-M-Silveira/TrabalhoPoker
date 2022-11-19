@@ -1,0 +1,14 @@
+//notas
+
+/*
+Mudar a forma com que bot se relaciona com players para se tornar uma herança
+
+EM rodada:
+Se não tiver como aumentar firam duas opções{
+    pagar ou figir
+}
+
+
+*/
+
+
